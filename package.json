@@ -14,9 +14,7 @@
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.11.12"
-  },
-  "devDependencies": {
+    "mongoose": "^5.11.12",
     "nodemon": "^2.0.7"
   }
 }
